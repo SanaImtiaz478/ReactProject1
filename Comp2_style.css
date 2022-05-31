@@ -1,0 +1,24 @@
+.container2{
+    background-color: #1C55C9;
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    color:white;
+    font-size: 60px;
+    font-style: bold;
+}
+
+.heading{
+    display: flex;
+    flex-direction:column;
+    font-size: 50px;
+    justify-content: center;
+    align-items:center;
+    font-size: 60px;
+    color: white;
+    font-style: bold;
+    
+}
+
